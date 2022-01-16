@@ -1,0 +1,158 @@
+@media only screen and (max-width: 1024px) {
+
+}
+@media only screen and (max-width: 992px) {
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+        display: none;
+    }
+
+    .Head_banner .container-fluid h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .Head_banner {
+        background-image: url(../img/fresh-melientha-suavis-pierre-leaves-white-surface_51524-12145-removebg-preview\ 1\ \(1\).svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .custom_best {
+        box-shadow: 10px 5px 5px green;
+    }
+    .d_app {
+        background-image: url(../img/Group\ 5295.jpg);
+        background-position: right bottom;
+        background-repeat: no-repeat;
+    }
+    .d_app h2 {
+        font-size: 30px;
+        line-height: 30px;
+        border-radius: 10px;
+        border-top: 1px solid black;
+        border-left: 1px solid black;
+        box-shadow: 10px 5px 5px black;
+        background-color: #f3fbf8;
+    }
+    .d_app p {
+        font-size: 15px;
+        line-height: 30px;
+        border-radius: 10px;
+        border-top: 1px solid black;
+        border-left: 1px solid black;
+        box-shadow: 10px 5px 5px black;
+        background-color: #f3fbf8;
+    }
+    .custom_best {
+        background-image: url(../img/Group\ 5291.jpg);
+        background-position: right bottom;
+    }
+    .The_Best {
+        background-image: url(../img/veg_fruits_white.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .The_Best h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .owl-carousel h2 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+}
+@media only screen and (max-width: 767px) {
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .d_app {
+        background-image: url(../img/Group\ 5295.jpg);
+        background-position: right bottom;
+        background-repeat: no-repeat;
+    }
+    .d_app h2 {
+        font-size: 30px;
+        background-color: #f3fbf8;
+    }
+    .d_app p {
+        font-size: 15px;
+        background-color: #f3fbf8;
+    }
+}
+@media only screen and (max-width: 420px) {
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .d_app {
+        background-image: url(../img/Group\ 5295.jpg);
+        background-position: right bottom;
+        background-repeat: no-repeat;
+    }
+    .d_app h2 {
+        font-size: 30px;
+        background-color: #f3fbf8;
+    }
+    .d_app p {
+        font-size: 15px;
+        background-color: #f3fbf8;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+        display: none;
+    }
+}
+@media only screen and (max-width: 360px) {
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .d_app {
+        background-image: url(../img/Group\ 5295.jpg);
+        background-position: right bottom;
+        background-repeat: no-repeat;
+    }
+    .d_app h2 {
+        font-size: 30px;
+        background-color: #f3fbf8;
+    }
+    .d_app p {
+        font-size: 15px;
+        background-color: #f3fbf8;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .d_app {
+        background-image: url(../img/Group\ 5295.jpg);
+        background-position: right bottom;
+        background-repeat: no-repeat;
+    }
+    .d_app h2 {
+        font-size: 30px;
+        background-color: #f3fbf8;
+    }
+    .d_app p {
+        font-size: 15px;
+        background-color: #f3fbf8;
+    }
+}
